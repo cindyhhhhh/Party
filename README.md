@@ -1,4 +1,4 @@
-# ADA-Party
+# Party
 
 Problem Description:
 
